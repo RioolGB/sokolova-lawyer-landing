@@ -1,0 +1,9 @@
+# Исходные материалы задания (не часть сайта)
+zadanie.txt
+advokat-skv.png
+
+# Служебные файлы ОС/редакторов
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
